@@ -1,0 +1,17 @@
+{
+  "item.weatherchanger.call_rain_item": "喚雨券",
+  "item.weatherchanger.call_thunder_item": "喚雷券",
+  "item.weatherchanger.call_clear_item": "陽菜券",
+  "item.weatherchanger.call_rain_item.tooltip": "讓世界下雨吧",
+  "item.weatherchanger.call_thunder_item.tooltip": "讓世界變雷雨吧",
+  "item.weatherchanger.call_clear_item.tooltip": "讓世界放晴吧",
+  "text.weatherchanger.error_not_in_overworld": "你不在主世界，無法使用!",
+  "text.weatherchanger.error_is_raining": "現在正在下雨，等放晴再用吧!",
+  "text.weatherchanger.error_is_clear": "現在是晴天，等下雨或雷雨再用吧!",
+  "text.weatherchanger.successful_raining": "成功下雨了",
+  "text.weatherchanger.successful_thundering": "成功下雷雨了...",
+  "text.weatherchanger.successful_clear": "成功放晴了",
+  "text.weatherchanger.player_call_thundering": "%s 在召喚雷雨!",
+  "text.weatherchanger.player_call_raining": "%s 在召喚雨天!",
+  "text.weatherchanger.player_call_clearing": "%s 在祈禱放晴!"
+}

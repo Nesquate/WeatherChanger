@@ -1,0 +1,17 @@
+{
+  "item.weatherchanger.call_rain_item": "Call Rain",
+  "item.weatherchanger.call_thunder_item": "Call Thunder",
+  "item.weatherchanger.call_clear_item": "Call Clear",
+  "item.weatherchanger.call_rain_item.tooltip": "Let world weather change to rain",
+  "item.weatherchanger.call_thunder_item.tooltip": "Let world weather change to thunder",
+  "item.weatherchanger.call_clear_item.tooltip": "Let world weather change to clear",
+  "text.weatherchanger.error_not_in_overworld": "You are not in overworld!",
+  "text.weatherchanger.error_is_raining": "It's raining now, try in clear day",
+  "text.weatherchanger.error_is_clear": "It's clear now, try in raining or thundering day",
+  "text.weatherchanger.successful_raining": "Successful raining",
+  "text.weatherchanger.successful_thundering": "Successful thundering...",
+  "text.weatherchanger.successful_clear": "Successful clear",
+  "text.weatherchanger.player_call_thundering": "%s called thundering!",
+  "text.weatherchanger.player_call_raining": "%s called raining!",
+  "text.weatherchanger.player_call_clearing": "%s called clearing!"
+}
